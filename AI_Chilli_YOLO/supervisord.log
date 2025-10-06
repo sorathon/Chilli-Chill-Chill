@@ -1,0 +1,66 @@
+2025-10-06 23:23:49,449 INFO supervisord started with pid 69684
+2025-10-06 23:23:50,453 INFO spawnerr: can't find command 'gunicorn'
+2025-10-06 23:23:50,457 INFO spawnerr: unknown error making dispatchers for 'line': EACCES
+2025-10-06 23:23:51,460 INFO spawnerr: can't find command 'gunicorn'
+2025-10-06 23:23:51,462 INFO spawnerr: unknown error making dispatchers for 'line': EACCES
+2025-10-06 23:23:53,465 INFO spawnerr: can't find command 'gunicorn'
+2025-10-06 23:23:53,466 INFO spawnerr: unknown error making dispatchers for 'line': EACCES
+2025-10-06 23:23:56,471 INFO spawnerr: can't find command 'gunicorn'
+2025-10-06 23:23:56,471 INFO gave up: gunicorn entered FATAL state, too many start retries too quickly
+2025-10-06 23:23:56,472 INFO spawnerr: unknown error making dispatchers for 'line': EACCES
+2025-10-06 23:23:56,472 INFO gave up: line entered FATAL state, too many start retries too quickly
+2025-10-06 23:25:30,582 WARN received SIGINT indicating exit request
+2025-10-06 23:34:21,469 INFO supervisord started with pid 74670
+2025-10-06 23:34:22,473 INFO spawnerr: unknown error making dispatchers for 'gunicorn': EACCES
+2025-10-06 23:34:22,474 INFO spawnerr: unknown error making dispatchers for 'line': EACCES
+2025-10-06 23:34:23,475 INFO spawnerr: unknown error making dispatchers for 'gunicorn': EACCES
+2025-10-06 23:34:23,476 INFO spawnerr: unknown error making dispatchers for 'line': EACCES
+2025-10-06 23:34:25,480 INFO spawnerr: unknown error making dispatchers for 'gunicorn': EACCES
+2025-10-06 23:34:25,481 INFO spawnerr: unknown error making dispatchers for 'line': EACCES
+2025-10-06 23:34:28,485 INFO spawnerr: unknown error making dispatchers for 'gunicorn': EACCES
+2025-10-06 23:34:28,486 INFO gave up: gunicorn entered FATAL state, too many start retries too quickly
+2025-10-06 23:34:28,487 INFO spawnerr: unknown error making dispatchers for 'line': EACCES
+2025-10-06 23:34:28,487 INFO gave up: line entered FATAL state, too many start retries too quickly
+2025-10-06 23:36:30,637 WARN received SIGINT indicating exit request
+2025-10-06 23:37:01,756 INFO supervisord started with pid 76636
+2025-10-06 23:37:02,763 INFO spawned: 'gunicorn' with pid 76659
+2025-10-06 23:37:02,769 INFO spawned: 'line' with pid 76660
+2025-10-06 23:37:02,830 WARN exited: line (exit status 2; not expected)
+2025-10-06 23:37:04,739 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-10-06 23:37:04,742 INFO spawned: 'line' with pid 76686
+2025-10-06 23:37:04,768 WARN exited: line (exit status 2; not expected)
+2025-10-06 23:37:06,775 INFO spawned: 'line' with pid 76711
+2025-10-06 23:37:06,804 WARN exited: line (exit status 2; not expected)
+2025-10-06 23:37:09,809 INFO spawned: 'line' with pid 76753
+2025-10-06 23:37:09,838 WARN exited: line (exit status 2; not expected)
+2025-10-06 23:37:10,840 INFO gave up: line entered FATAL state, too many start retries too quickly
+2025-10-06 23:37:21,854 WARN received SIGINT indicating exit request
+2025-10-06 23:37:21,856 INFO waiting for gunicorn to die
+2025-10-06 23:37:23,897 INFO stopped: gunicorn (exit status 0)
+2025-10-06 23:39:44,184 INFO supervisord started with pid 78647
+2025-10-06 23:39:45,190 INFO spawned: 'gunicorn' with pid 78670
+2025-10-06 23:39:45,195 INFO spawned: 'line' with pid 78671
+2025-10-06 23:39:46,211 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-10-06 23:39:46,212 INFO success: line entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-10-06 23:40:11,486 WARN received SIGINT indicating exit request
+2025-10-06 23:40:11,489 INFO waiting for gunicorn, line to die
+2025-10-06 23:40:11,543 INFO stopped: line (exit status 0)
+2025-10-06 23:40:12,496 INFO stopped: gunicorn (exit status 0)
+2025-10-06 23:40:16,450 INFO supervisord started with pid 79168
+2025-10-06 23:40:17,456 INFO spawned: 'gunicorn' with pid 79191
+2025-10-06 23:40:17,459 INFO spawned: 'line' with pid 79192
+2025-10-06 23:40:18,924 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-10-06 23:40:18,924 INFO success: line entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-10-06 23:43:16,152 WARN received SIGINT indicating exit request
+2025-10-06 23:43:16,155 INFO waiting for gunicorn, line to die
+2025-10-06 23:43:16,214 INFO stopped: line (exit status 0)
+2025-10-06 23:43:17,045 INFO stopped: gunicorn (exit status 0)
+2025-10-06 23:44:48,596 INFO supervisord started with pid 82775
+2025-10-06 23:44:49,601 INFO spawned: 'gunicorn' with pid 82797
+2025-10-06 23:44:49,604 INFO spawned: 'line' with pid 82798
+2025-10-06 23:44:51,107 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-10-06 23:44:51,107 INFO success: line entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-10-06 23:47:46,278 WARN received SIGINT indicating exit request
+2025-10-06 23:47:46,281 INFO waiting for gunicorn, line to die
+2025-10-06 23:47:46,344 INFO stopped: line (exit status 0)
+2025-10-06 23:47:47,296 INFO stopped: gunicorn (exit status 0)

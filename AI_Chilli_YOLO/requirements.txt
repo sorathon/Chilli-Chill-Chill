@@ -1,0 +1,7 @@
+certifi==2025.10.5
+Flask==3.1.2
+numpy
+opencv_python==4.12.0.88
+Pillow==11.3.0
+pymongo==4.15.2
+ultralytics==8.3.205

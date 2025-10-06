@@ -1,0 +1,24 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 487-703-975
+/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 487-703-975
+127.0.0.1 - - [06/Oct/2025 23:47:02] code 400, message Bad request version ('À\x13À')
+127.0.0.1 - - [06/Oct/2025 23:47:02] "[35m[1m\x16\x03\x01\x00á\x01\x00\x00Ý\x03\x03p\x09÷û.W\x9c-z¹\x0dWGï¸F\x81\x9eïfÒ¯¡Ô\x15©ù=\x85\x99\x96\x0f Q¿RÜ;\x82\x95Ý\x172³\x00%H2\x9a$@@jC\x1cÛ-f$äL&FQt\x00$\x13\x01\x13\x02\x13\x03À/À+À0À,À'Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+127.0.0.1 - - [06/Oct/2025 23:47:06] code 400, message Bad request version ('À\x13À')
+127.0.0.1 - - [06/Oct/2025 23:47:06] "[35m[1m\x16\x03\x01\x00á\x01\x00\x00Ý\x03\x03U\x8b^¥Çg\x87l9¸Ò\x87ç\x05Â¹í\x0bíï({à\x90\x07à\x09íé\x1e\x17¥ \x93\x85v\x8fkÙü#\x837\x07·øîú\x90¯1j\x7ffXZ\x87\x7f\x96Â>Ü¤áò\x00$\x13\x01\x13\x02\x13\x03À/À+À0À,À'Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+127.0.0.1 - - [06/Oct/2025 23:47:07] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00á\x01\x00\x00Ý\x03\x03I7â¨.\x02aÄ=wÒ\x80üý:Ö,°vÃ½ø')
+127.0.0.1 - - [06/Oct/2025 23:47:07] "[35m[1m\x16\x03\x01\x00á\x01\x00\x00Ý\x03\x03I7â¨.\x02aÄ=wÒ\x80üý:Ö,°vÃ½ø\x0døoyÄ\x8dVÒ&[0m" HTTPStatus.BAD_REQUEST -
+127.0.0.1 - - [06/Oct/2025 23:47:13] code 400, message Bad request version ('À\x13À')
+127.0.0.1 - - [06/Oct/2025 23:47:13] "[35m[1m\x16\x03\x01\x00á\x01\x00\x00Ý\x03\x03÷Úå\x1dz½?èÈ!M1Èõ»7y\x91`\x0dÏþÆ\x10OM8DGnÕo Ò\x19öj\x1e\\ïF\x94´\x9d\x16³w¡\x90Ô·Ë²\x017DÄå\x0dÑvéóm1\x00$\x13\x01\x13\x02\x13\x03À/À+À0À,À'Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

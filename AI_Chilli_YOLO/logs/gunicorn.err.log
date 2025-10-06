@@ -1,0 +1,26 @@
+[2025-10-06 23:40:17 +0700] [79191] [INFO] Starting gunicorn 23.0.0
+[2025-10-06 23:40:17 +0700] [79191] [INFO] Listening at: http://0.0.0.0:8080 (79191)
+[2025-10-06 23:40:17 +0700] [79191] [INFO] Using worker: sync
+[2025-10-06 23:40:17 +0700] [79193] [INFO] Booting worker with pid: 79193
+[2025-10-06 23:40:17 +0700] [79194] [INFO] Booting worker with pid: 79194
+[2025-10-06 23:40:17 +0700] [79195] [INFO] Booting worker with pid: 79195
+[2025-10-06 23:40:17 +0700] [79199] [INFO] Booting worker with pid: 79199
+[2025-10-06 23:43:16 +0700] [79191] [INFO] Handling signal: term
+[2025-10-06 23:43:16 +0700] [79193] [INFO] Worker exiting (pid: 79193)
+[2025-10-06 23:43:16 +0700] [79194] [INFO] Worker exiting (pid: 79194)
+[2025-10-06 23:43:16 +0700] [79195] [INFO] Worker exiting (pid: 79195)
+[2025-10-06 23:43:16 +0700] [79199] [INFO] Worker exiting (pid: 79199)
+[2025-10-06 23:43:17 +0700] [79191] [INFO] Shutting down: Master
+[2025-10-06 23:44:49 +0700] [82797] [INFO] Starting gunicorn 23.0.0
+[2025-10-06 23:44:49 +0700] [82797] [INFO] Listening at: http://0.0.0.0:8080 (82797)
+[2025-10-06 23:44:49 +0700] [82797] [INFO] Using worker: sync
+[2025-10-06 23:44:49 +0700] [82800] [INFO] Booting worker with pid: 82800
+[2025-10-06 23:44:49 +0700] [82801] [INFO] Booting worker with pid: 82801
+[2025-10-06 23:44:49 +0700] [82802] [INFO] Booting worker with pid: 82802
+[2025-10-06 23:44:49 +0700] [82803] [INFO] Booting worker with pid: 82803
+[2025-10-06 23:47:46 +0700] [82797] [INFO] Handling signal: term
+[2025-10-06 23:47:46 +0700] [82801] [INFO] Worker exiting (pid: 82801)
+[2025-10-06 23:47:46 +0700] [82803] [INFO] Worker exiting (pid: 82803)
+[2025-10-06 23:47:46 +0700] [82802] [INFO] Worker exiting (pid: 82802)
+[2025-10-06 23:47:46 +0700] [82800] [INFO] Worker exiting (pid: 82800)
+[2025-10-06 23:47:47 +0700] [82797] [INFO] Shutting down: Master
